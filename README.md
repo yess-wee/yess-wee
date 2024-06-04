@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yess-wee" alt="yess-wee" /></a> </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYESS_WEE%2FYESS_WEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="left"> <a href="https://twitter.com/yashvichau36888" target="blank"><img src="https://img.shields.io/twitter/follow/yashvichau36888?logo=twitter&style=for-the-badge" alt="yashvichau36888" /></a> </p>
 
