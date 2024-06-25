@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Dagger Hilt (Dependency injection) in Kotlin**
 
-- 📝 I regularly write articles on [https://x.com/YashviChau36888?t=xIgdhQGx9Wr7ttEqCijLUw&s=08](https://x.com/YashviChau36888?t=xIgdhQGx9Wr7ttEqCijLUw&s=08)
+- 📝 I regularly write articles on https://medium.com/@yashvichauhan83
 
 - 💬 Ask me about **Android / Flutter Applications**
 
