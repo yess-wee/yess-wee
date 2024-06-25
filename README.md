@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashvichau36888" target="blank"><img src="https://img.shields.io/twitter/follow/yashvichau36888?logo=twitter&style=for-the-badge" alt="yashvichau36888" /></a> </p>
 
-- 🔭 I’m currently working on **Medity(Reactjs based project)**
+- 🔭 I’m currently working on **KhareedoApp(Android app(Kotlin - MVVM)**
 
 - 🌱 I’m currently learning **Dagger Hilt (Dependency injection) in Kotlin**
 
