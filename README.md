@@ -5,6 +5,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/yashvichau36888" target="blank"><img src="https://img.shields.io/twitter/follow/yashvichau36888?logo=twitter&style=for-the-badge" alt="yashvichau36888" /></a> </p>
+<p align="left"> ![](https://komarev.com/ghpvc/?username=yess-wee) </p>
 
 - 🔭 I’m currently working on **KhareedoApp(Android app(Kotlin - MVVM)**
 
